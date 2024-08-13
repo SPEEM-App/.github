@@ -17,6 +17,10 @@ Our mission is to empower the academic community by providing a decentralized so
 - **Decentralized Validation**: Enables academic institutions to act as validators, fostering a community-driven approach to managing and safeguarding academic content.
 - **Transparency and Accessibility**: Ensures that all transactions and document submissions are transparent and accessible to authorized users, promoting a culture of openness and peer review.
 
+## Sub-projects
+- **SPEEM Node**: This is the [SPEEM node](https://github.com/SPEEM-App/speed-node) implementation, a Substrate node based on [Polkadot SDK Solochain Template](https://github.com/paritytech/polkadot-sdk-solochain-template).
+- **SPEEM dApp**: The frontend [dApp](https://github.com/SPEEM-App/speem-dapp), the entry point for all system users.
+
 ## Development Roadmap
 ### Phase 1: Proof of Concept (PoC)
 - Develop core blockchain logic for secure document handling.
